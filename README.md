@@ -4,12 +4,6 @@
 
 This project presents a comprehensive analysis of the Vrinda Store's sales data. The goal is to uncover key insights into sales performance, customer behavior, and product trends to provide actionable recommendations for business growth, inventory optimization, and targeted marketing strategies.
 
----
-
-## 🖼️ Dashboard Snapshot
-*(Suggestion: Insert a high-quality screenshot of your final Excel dashboard here for immediate visual impact.)*
-
-![Dashboard Snapshot](your_dashboard_image_url_here.png)
 
 ---
 
